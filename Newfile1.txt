@@ -1,4 +1,4 @@
-this is old file , not a new one 
+this is old file , not a new one
 
 working copy > staging area > repository
 
