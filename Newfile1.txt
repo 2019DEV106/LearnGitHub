@@ -1,1 +1,5 @@
-New file
+this is old file , not a new one 
+
+working copy > staging area > repository
+
+working are --> git add --> commiting area
